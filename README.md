@@ -1,3 +1,7 @@
+![Stack](https://img.shields.io/badge/stack-vite%20%7C%20react%20%7C%20typescript%20%7C%20supabase-blue)
+![Data](https://img.shields.io/badge/data-python%20EPC%20parser-orange)
+![Hosted](https://img.shields.io/badge/hosted-porkbun-green)
+
 # S-Chassis Archive — Nissan S13/S14/S15 VIN Decoder & Production Intelligence
 Live site: https://s-chassis-archive.com/
 

@@ -121,7 +121,7 @@ If you spot a decode error or have verifiable OEM evidence:
 ---
 
 ## Contact
-**Lach Lunny**  
+**Lachlan Lunny**  
 - Site: https://s-chassis-archive.com/  
 - GitHub: https://github.com/llunny  
 - Email: [contact@s-chassis-archive.com]

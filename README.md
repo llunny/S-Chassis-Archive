@@ -85,7 +85,23 @@ Known limitations and ongoing fixes are tracked in `docs/validation-notes.md`.
 ---
 
 ## Screenshots
-See `/assets/screenshots/` for current UI and example decode flows.
+
+### VIN / Frame Decoder
+Shows an example decode flow from input to factory-spec output.
+![VIN Decoder Example](vin-decoder-example.png)
+
+### Production Overview
+High-level production totals and breakdown context.
+![Production Overview](overview.png)
+
+### Market Breakdown Table
+Production counts split by market/region.
+![Market Table](market-table.png)
+
+### Colourway / Paint Breakdown
+Factory colour production counts and rarity context.
+![Colourway Table](colourway-table.png)
+
 
 ---
 

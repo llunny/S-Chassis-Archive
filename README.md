@@ -6,7 +6,7 @@ S-Chassis Archive is a community-first platform for decoding Nissan S-chassis VI
 ---
 
 ## Why I Built This
-The S-chassis community has historically depended on a handful of legacy registry sites to decode chassis numbers and verify factory specs. When those registries went offline or became unreliable, essential OEM information effectively disappeared overnight.
+The S-chassis community has historically depended on a handful of legacy registry sites such as gtr-registry to decode chassis numbers and verify factory specs. When those registries went offline or became unreliable, essential OEM information effectively disappeared overnight.
 
 I built S-Chassis Archive to:
 - keep VIN decoding and production rarity data accessible long-term  
